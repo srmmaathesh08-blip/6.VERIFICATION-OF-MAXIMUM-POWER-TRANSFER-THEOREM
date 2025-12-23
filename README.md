@@ -26,7 +26,8 @@ The maximum power transfer theorem tells us that the load should be equal in mag
 
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
 
-![EXP 6 DAI](https://github.com/user-attachments/assets/26eeb020-b2a6-4115-93a2-a85dea23757c)
+![exp 6 daigram 1](https://github.com/user-attachments/assets/deceab6f-79e0-4334-a7f0-7c60739fd5d1)
+
 
 
 
@@ -34,7 +35,8 @@ The maximum power transfer theorem tells us that the load should be equal in mag
 
 Resistance (RL) in ohm
 
-![MODAL GRAPH](https://github.com/user-attachments/assets/747030c5-cead-4a75-ad94-0d98062b4fee)
+![exp 6 graph](https://github.com/user-attachments/assets/2df8dd13-37a7-48b0-83ff-f2c1ac43db49)
+
 
 
 
@@ -42,7 +44,8 @@ Resistance (RL) in ohm
  
 **TABLE (1) :FOR THEORETICAL CALCULATION: Rth =750 Ω**
 
-![EXP 6 TAB 1](https://github.com/user-attachments/assets/37ee5ea3-94b4-4941-bebf-8f3ca128628c)
+![exp 6 tabu 1 1](https://github.com/user-attachments/assets/6c65d514-cbcd-4275-b5b5-3c9d6770eecd)
+
 
 
 
@@ -54,7 +57,8 @@ Resistance (RL) in ohm
 
 **MODEL CALCULATION:**
 
-![EXP 6 CAL](https://github.com/user-attachments/assets/f952f64a-c5ab-480c-8b44-b6875cc52e03)
+![exp 6 calcu](https://github.com/user-attachments/assets/b6ec304e-74ad-4b95-8747-516c1b2389e0)
+
 
 
 
@@ -68,7 +72,8 @@ Resistance (RL) in ohm
 
 4.	Verify the measured values of RL at maximum power transfer as same as calculated and found graphically.
 
-![EXP 6 MARK](https://github.com/user-attachments/assets/456f779c-8dab-4785-9932-a87ac9c79368)
+![exp 6 fin](https://github.com/user-attachments/assets/d360e5e8-23cb-4c81-811a-d96398260708)
+
 
    
 
